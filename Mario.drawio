@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net" modified="2023-10-22T14:11:58.273Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.61" etag="8plPrdclOWL5FzCt462X" version="22.0.6" type="github">
+  <diagram name="Page-1" id="24QNUBauEptLFehuIoLe">
+    <mxGraphModel dx="3160" dy="1322" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oC2lkdSRTwGsGQrgg0Gq-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="20" width="370" height="650" as="geometry" />
+        </mxCell>
+        <mxCell id="oC2lkdSRTwGsGQrgg0Gq-2" value="Audio" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="730" y="20" width="380" height="650" as="geometry" />
+        </mxCell>
+        <mxCell id="oC2lkdSRTwGsGQrgg0Gq-3" value="Code" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="20" width="350" height="650" as="geometry" />
+        </mxCell>
+        <mxCell id="oC2lkdSRTwGsGQrgg0Gq-4" value="Visual" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="15" y="30" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oC2lkdSRTwGsGQrgg0Gq-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oC2lkdSRTwGsGQrgg0Gq-7" target="oC2lkdSRTwGsGQrgg0Gq-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oC2lkdSRTwGsGQrgg0Gq-7" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.aseprite.org/assets/images/header-logo.png;" vertex="1" parent="1">
+          <mxGeometry x="-41.88" y="60" width="173.77" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="oC2lkdSRTwGsGQrgg0Gq-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oC2lkdSRTwGsGQrgg0Gq-8" target="oC2lkdSRTwGsGQrgg0Gq-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oC2lkdSRTwGsGQrgg0Gq-8" value="Mario Image" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-15" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oC2lkdSRTwGsGQrgg0Gq-10" value="Mario animation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-15" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oC2lkdSRTwGsGQrgg0Gq-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-85" y="140" width="260" height="280" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
